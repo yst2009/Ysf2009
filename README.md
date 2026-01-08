@@ -1,5 +1,4 @@
- 👋Youssef (Go)
-BackEnd Developer(Laravel) & AI Automation Engineer
+# 👋 YOUSSEF  (GO) | Laravel Developer & AI Automation Engineer
 
 Welcome to my GitHub! I'm a backend developer from Cairo 🇪🇬 building modern SaaS platforms and enterprise solutions. Specialized in Laravel, automation workflows, and AI integration.
 
@@ -86,6 +85,7 @@ Welcome to my GitHub! I'm a backend developer from Cairo 🇪🇬 building moder
 ---
 
 
+
 ## 🎯 Key Expertise
 
 | Area | Expertise |
@@ -117,9 +117,9 @@ Welcome to my GitHub! I'm a backend developer from Cairo 🇪🇬 building moder
   - ✅ Dashboard & Admin Panel Development
   
 - **Reach Out:** 
-  - 📧 Email: [Your Email]
-  - 💬 WhatsApp: [Your Number]
-  - 🔗 LinkedIn: [Your LinkedIn Profile]
+  - 📧 Email: [azzaazz172@gmail.com]
+  - 💬 WhatsApp: [01028086887]
+  - 🔗 LinkedIn: []
   - 📍 Location: Cairo, Egypt 🇪🇬
 
 ---
@@ -131,6 +131,7 @@ Welcome to my GitHub! I'm a backend developer from Cairo 🇪🇬 building moder
 - Mastering n8n for complex workflow automation
 
 ---
+
 *"Building production-grade solutions that automate the world."* 🚀
 
 ---
@@ -138,10 +139,13 @@ Welcome to my GitHub! I'm a backend developer from Cairo 🇪🇬 building moder
 ### 📂 Repository Overview
 | Project | Stars | Forks | Status |
 |---------|-------|-------|--------|
-| 🎓 School Management System | - | - | ✅ Active |
-| 💰 ProInvoice System | - | - | ✅ Active |
-| 🎯 ProJex Go | - | - | 🟡 Dev |
-| 📱 WhatsApp Translation | - | - | ✅ Active |
+## 📊 Repository Overview
+| Project | Stars | Forks | Status |
+|---------|-------|-------|--------|
+| 🎓 **School Management** | - | - | ✅ **Portfolio** |
+| 💰 **ProInvoice System** | - | - | ✅ **Portfolio** |
+| 🎯 **ProJex Go** | - | - | 🟢 **Portfolio** |
+| 📱 **WhatsApp Translation** | - | - | 🟢 **Portfolio** |
 
 ---
 
