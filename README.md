@@ -8,7 +8,6 @@ Welcome to my GitHub! I'm a backend developer from **Cairo 🇪🇬** building m
 - **ProJex Go** → **Investment Platform launching 2026** (Market Ready)
 - **WhatsApp Bot SaaS** → Intelligent chatbots using Meta API
 - **Telegram Content Agent** → Auto AI agent creation from bot token
-- **Video Automation** → Auto-generate Shorts with n8n + Canva
 - **Full Stack SaaS** → Dashboards with FilamentPHP
 
 ---
@@ -76,7 +75,6 @@ Welcome to my GitHub! I'm a backend developer from **Cairo 🇪🇬** building m
 | **WhatsApp/Telegram Bots** | 🟢 Expert |
 | **REST APIs + Postman** | 🟢 Expert |
 
----
 
 **💰 Available for Freelance:** Laravel Development | n8n Automation | WhatsApp/Telegram Bots  
 📧 [azzaazz172@gmail.com](mailto:azzaazz172@gmail.com) | **Cairo, Egypt 🇪🇬**
