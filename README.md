@@ -1,94 +1,86 @@
 # 👋 YOUSSEF (GO) | Laravel Developer & AI Automation Engineer
 
-Welcome to my GitHub! I'm a backend developer from Cairo 🇪🇬 building modern SaaS platforms and enterprise solutions. Specialized in Laravel, automation workflows, and AI integration.
+Welcome to my GitHub! I'm a backend developer from **Cairo 🇪🇬** building modern SaaS platforms and enterprise solutions. Specialized in **Laravel**, **automation workflows**, and **AI integration**.
 
 ---
 
 ## 🚀 Current Focus
-- **WhatsApp Bot SaaS** → Intelligent chatbots for businesses using Meta API
-- **Telegram Content Agent** → Auto AI agent creation from bot token + instructions
+- **ProJex Go** → **Investment Platform launching 2026** (Market Ready)
+- **WhatsApp Bot SaaS** → Intelligent chatbots using Meta API
+- **Telegram Content Agent** → Auto AI agent creation from bot token
 - **Video Automation** → Auto-generate Shorts with n8n + Canva
-- **Full Stack SaaS** → Dashboards with FilamentPHP in hours, not weeks
-- **API Integration & Workflow Automation** → Connecting services seamlessly
+- **Full Stack SaaS** → Dashboards with FilamentPHP
 
 ---
 
 ## 💼 Tech Stack
 **Backend:** Laravel (8, 9, 10) | PHP 8.2+ | MySQL | RESTful APIs  
 **Frontend:** FilamentPHP | Livewire | Blade Templates | Bootstrap | JavaScript  
-**Automation:** n8n (70+ nodes) | Meta/Telegram APIs | Google APIs | OpenAI Integration | Node.js  
-**Tools & DevOps:** Docker | Git | FFmpeg | Postman | GitHub Actions | Cron Jobs | KV Storage | Webhooks  
-**Databases:** MySQL | Query Optimization | Data Integrity
+**Automation:** n8n (70+ nodes) | Meta/Telegram APIs | Google APIs | OpenAI | Node.js  
+**Tools:** Docker | Git | FFmpeg | Postman | GitHub Actions | Cron Jobs | Webhooks  
 
 ---
 
 ## 📌 Featured Projects
 
 ### 1. **🎓 School Management System** ⭐ Production
-**Complete ERP Solution for Educational Institutions** [file:31]
-- **Features:** RBAC, Academic Management, Smart Grading, Real-time Attendance
-- **Tech Stack:** Laravel 10 | MySQL | Blade | Bootstrap | Sanctum
+**Complete ERP Solution** [file:31]
+- **Features:** RBAC, Timetable, Smart Grading, Attendance
+- **Tech:** Laravel 10 | MySQL | Bootstrap | Sanctum
 - **Status:** ✅ **Production Ready**
 - **Repo:** `school-management-system`
 
 ### 2. **💰 ProInvoice System** ⭐ Production
-**Advanced Billing & Invoice Management Platform**
-- **Features:** Dynamic Taxes, PDF Generation, CRM Client Tracking, Analytics
-- **Tech Stack:** Laravel 10 | MySQL | dompdf | JavaScript
+**Advanced Billing Platform**
+- **Features:** Dynamic Taxes, PDF Generation, CRM, Analytics
+- **Tech:** Laravel 10 | MySQL | dompdf
 - **Status:** ✅ **Live**
 - **Repo:** `proinvoice-system`
 
-### 3. **🎯 ProJex Go** ⭐ Investment Platform [file:31]
-**Ecosystem for Startup Growth**
-- **Features:** User Roles, Project Management, Workshops, Analytics Dashboard
-- **Tech Stack:** Laravel | MySQL | REST API
-- **Status:** 🟡 **In Development**
+### 3. **📰 Clean Blog APIs** ⭐ Production APIs + Dashboard [file:84]
+**Laravel Full Stack Blog Platform**
+- **Backend:** 20+ REST APIs + Postman Collection
+- **Frontend:** Responsive Admin Dashboard (RTL)
+- **Tech:** Laravel 10 | MySQL | Bootstrap
+- **Status:** ✅ **Production Ready**
+- **Repo:** `clean-blog-apis`
+
+### 4. **🎯 ProJex Go** ⭐ **Investment Platform** (Market Launch 2026)
+**Complete Startup Ecosystem Platform**
+- **Features:** User Roles, Project Management, Workshops, Analytics Dashboard, Investment Tracking
+- **Tech:** Laravel 10 | MySQL | REST APIs | FilamentPHP Dashboard
+- **Status:** 🚀 **Market Ready - Launching 2026**
 - **Repo:** `projex-go`
 
-### 4. **🤖 Telegram Content Agent** ⭐ Production [memory:12]
-**Automated AI Agent Builder from Telegram Bot Token**
-- **Features:**
-  - Webhook Processing → Bot Token + Instructions → Custom AI Agent Creation
-  - Multi-API Orchestration (Telegram Bot API + OpenAI)
-  - KV Storage for Conversation History & Context
-  - Arabic/English Support + Sentiment Analysis
-  - Zero-Code Deployment with n8n Enterprise Nodes
-- **Tech Stack:** n8n (Webhook, HTTP Request, KV Store, Edit Fields) | Telegram Bot API | OpenAI
-- **Status:** ✅ **Production Ready** (WhatsApp Migration Ready)
-- **Repo:** `telegram-content-agent` [conversation_history:45]
+### 5. **🤖 Telegram Content Agent** ⭐ Production [memory:12]
+**AI Agent Builder from Telegram Bot**
+- **Features:** Webhook → Bot Token → Custom AI Agent (Zero-Code)
+- **Tech:** n8n Enterprise | Telegram Bot API | OpenAI
+- **Status:** ✅ **Production**
+- **Repo:** `telegram-content-agent`
 
-### 5. **📱 WhatsApp Translation Automation** 🤖 SaaS
-**Fully Automated AI Translation Service**
-- **Features:** Auto PDF Routing, Payment Verification, Google Drive/Sheets Integration
-- **Tech Stack:** n8n | WhatsApp Cloud API | Google APIs | JavaScript
+### 6. **📱 WhatsApp Translation SaaS** ⭐ Production
+**Automated AI Translation Service**
+- **Features:** PDF Routing, Payment Verification, Google Drive Integration
+- **Tech:** n8n | WhatsApp Cloud API | Google APIs
 - **Status:** ✅ **Production**
 - **Repo:** `whatsapp-translation-automation`
 
 ---
 
 ## 🎯 Key Expertise
-| Area | Expertise |
-|------|-----------|
-| **Backend** | Laravel MVC, APIs, Auth |
-| **Automation** | n8n Webhooks, Telegram/WhatsApp, AI Agents |
-| **SaaS** | Multi-tenancy, Subscriptions |
+| Area | Level |
+|------|-------|
+| **Laravel Full Stack** | 🟢 Expert |
+| **n8n Automation** | 🟢 Expert |
+| **WhatsApp/Telegram Bots** | 🟢 Expert |
+| **REST APIs + Postman** | 🟢 Expert |
 
 ---
 
-## 📊 Repository Overview
-| Project | Stars | Forks | Status |
-|---------|-------|-------|--------|
-| School Management | - | - | ✅ Production |
-| ProInvoice | - | - | ✅ Production |
-| ProJex Go | - | - | 🟡 Dev |
-| **Telegram Content Agent** | - | - | ✅ **Production** |
-| WhatsApp Translation | - | - | ✅ Production |
+**💰 Available for Freelance:** Laravel Development | n8n Automation | WhatsApp/Telegram Bots  
+📧 [azzaazz172@gmail.com](mailto:azzaazz172@gmail.com) | **Cairo, Egypt 🇪🇬**
 
----
-
-**Available for Freelance:** Laravel | n8n Automation | WhatsApp/Telegram Bots  
-📧 azzaazz172@gmail.com | Cairo, Egypt 🇪🇬
-
-*"Building production-grade AI automation that scales."* 🚀
+*"Production-grade solutions that scale. ProJex Go launching 2026"* 🚀
 
 **Last Updated:** January 2026
