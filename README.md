@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm a backend developer from **Cairo 🇪🇬** building m
 
 ## 🚀 Current Focus
 
-- **Botify-Ai** → **Enterprise AI Sales Automation** (Our flagship SaaS solution)
+- **Botify-Ai** → Enterprise AI Sales Automation (Our flagship SaaS solution)
 - **ProJex Go** → Investment Platform launching 2026 (Market Ready)
 - **WhatsApp Bot SaaS** → Intelligent chatbots using Meta API
 
@@ -24,16 +24,34 @@ Welcome to my GitHub! I'm a backend developer from **Cairo 🇪🇬** building m
 ## 📌 Featured Projects
 
 ### 1. 🤖 Botify-Ai | Enterprise Sales Automation
-**End-to-End AI-Powered Sales Ecosystem**
-- **Features:** Multi-tenant architecture, AI-Agent orchestration, CRM integration.
+- **Features:** Multi-tenant architecture, AI-Agent orchestration, CRM integration, high-concurrency lead qualification.
 - **Tech:** Node.js | React | n8n | Supabase
-- **Status:** 🚀 **Active Development**
+- **Status:** 🚀 Active Development / Enterprise Ready
 
 ### 2. 🎯 ProJex Go | Investment Platform (2026)
-**Complete Startup Ecosystem Platform**
-- **Features:** Project Management, Analytics Dashboard, Investment Tracking.
+- **Features:** User Roles, Project Management, Workshops, Analytics Dashboard, Investment Tracking.
 - **Tech:** Laravel 10 | FilamentPHP | MySQL
-- **Status:** 🚀 **Market Ready**
+- **Status:** 🚀 Market Ready - Launching 2026
+
+### 3. 🎓 School Management System
+- **Features:** RBAC, Timetable, Smart Grading, Attendance.
+- **Tech:** Laravel 10 | MySQL | Sanctum
+- **Status:** ✅ Production Ready
+
+### 4. 🤖 Telegram Content Agent
+- **Features:** Webhook → Bot Token → Custom AI Agent (Zero-Code).
+- **Tech:** n8n Enterprise | Telegram Bot API | OpenAI
+- **Status:** ✅ Production
+
+### 5. 💰 ProInvoice System
+- **Features:** Dynamic Taxes, PDF Generation, CRM, Analytics.
+- **Tech:** Laravel 10 | MySQL | dompdf
+- **Status:** ✅ Live
+
+### 6. 📱 WhatsApp Translation SaaS
+- **Features:** PDF Routing, Payment Verification, Google Drive Integration.
+- **Tech:** n8n | WhatsApp Cloud API | Google APIs
+- **Status:** ✅ Production
 
 ---
 
@@ -44,9 +62,13 @@ Welcome to my GitHub! I'm a backend developer from **Cairo 🇪🇬** building m
 | **Laravel Full Stack** | 🟢 Expert |
 | **n8n Automation** | 🟢 Expert |
 | **AI SaaS Architecture** | 🟢 Expert |
+| **WhatsApp/Telegram Bots** | 🟢 Expert |
 
 ---
 
-**youssef.mohamad.dev@gmail.com** | **Cairo, Egypt 🇪🇬**
+**💰 Available for Freelance:** Laravel Development | n8n Automation | AI Integration  
+📧 youssef.mohamad.dev@gmail.com | **Cairo, Egypt 🇪🇬**
 
-*"Building production-grade solutions that scale."* 🚀
+*"Building production-grade solutions that scale. Botify-Ai & ProJex Go launching 2026"* 🚀
+
+**Last Updated:** June 2026
