@@ -1,1 +1,52 @@
-👋 YOUSSEF (GO) | Laravel Developer & AI Automation EngineerWelcome to my GitHub! I'm a backend developer from Cairo 🇪🇬 building modern SaaS platforms and enterprise solutions. Specialized in Laravel, automation workflows, and AI integration.🚀 Current FocusBotify-Ai → Enterprise AI Sales Automation (Our flagship SaaS solution)ProJex Go → Investment Platform launching 2026 (Market Ready)WhatsApp Bot SaaS → Intelligent chatbots using Meta API💼 Tech StackBackend: Laravel (8, 9, 10) | PHP 8.2+ | MySQL | RESTful APIsFrontend: FilamentPHP | Livewire | Blade Templates | Bootstrap | JavaScriptAutomation: n8n (70+ nodes) | Meta/Telegram APIs | Google APIs | OpenAI | Node.jsTools: Docker | Git | FFmpeg | Postman | GitHub Actions | Cron Jobs | Webhooks📌 Featured Projects1. 🤖 Botify-Ai ⭐ Enterprise Sales AutomationEnd-to-End AI-Powered Sales EcosystemFeatures: Multi-tenant architecture, AI-Agent orchestration, CRM integration, and high-concurrency lead qualification.Tech: Node.js | React | n8n | SupabaseStatus: 🚀 Active Development / Enterprise ReadyRepo: Botify_Automation2. 🎯 ProJex Go ⭐ Investment Platform (Market Launch 2026)Complete Startup Ecosystem PlatformFeatures: User Roles, Project Management, Workshops, Analytics Dashboard, Investment Tracking.Tech: Laravel 10 | FilamentPHP | MySQLStatus: 🚀 Market Ready - Launching 2026Repo: projex-go3. 🎓 School Management System ⭐ ProductionComplete ERP SolutionFeatures: RBAC, Timetable, Smart Grading, Attendance.Tech: Laravel 10 | MySQL | Sanctum.4. 🤖 Telegram Content Agent ⭐ ProductionAI Agent Builder from Telegram BotFeatures: Webhook → Bot Token → Custom AI Agent (Zero-Code).Tech: n8n Enterprise | Telegram Bot API | OpenAI.5. 💰 ProInvoice System ⭐ ProductionAdvanced Billing PlatformFeatures: Dynamic Taxes, PDF Generation, CRM, Analytics.🎯 Key ExpertiseAreaLevelLaravel Full Stack🟢 Expertn8n Automation🟢 ExpertAI SaaS Architecture🟢 ExpertWhatsApp/Telegram Bots🟢 Expert💰 Available for Freelance: Laravel Development | n8n Automation | AI Integration📧 youssef.mohamad.dev@gmail.com | Cairo, Egypt 🇪🇬"Building production-grade solutions that scale. Botify-Ai & ProJex Go launching 2026" 🚀Last Updated: June 2026****
+# 👋 YOUSSEF (GO) | Laravel Developer & AI Automation Engineer
+
+Welcome to my GitHub! I'm a backend developer from **Cairo 🇪🇬** building modern SaaS platforms and enterprise solutions. Specialized in **Laravel**, **automation workflows**, and **AI integration**.
+
+---
+
+## 🚀 Current Focus
+
+- **Botify-Ai** → **Enterprise AI Sales Automation** (Our flagship SaaS solution)
+- **ProJex Go** → Investment Platform launching 2026 (Market Ready)
+- **WhatsApp Bot SaaS** → Intelligent chatbots using Meta API
+
+---
+
+## 💼 Tech Stack
+
+**Backend:** Laravel (8, 9, 10) | PHP 8.2+ | MySQL | RESTful APIs  
+**Frontend:** FilamentPHP | Livewire | Blade Templates | Bootstrap | JavaScript  
+**Automation:** n8n (70+ nodes) | Meta/Telegram APIs | Google APIs | OpenAI | Node.js  
+**Tools:** Docker | Git | FFmpeg | Postman | GitHub Actions | Cron Jobs | Webhooks  
+
+---
+
+## 📌 Featured Projects
+
+### 1. 🤖 Botify-Ai | Enterprise Sales Automation
+**End-to-End AI-Powered Sales Ecosystem**
+- **Features:** Multi-tenant architecture, AI-Agent orchestration, CRM integration.
+- **Tech:** Node.js | React | n8n | Supabase
+- **Status:** 🚀 **Active Development**
+
+### 2. 🎯 ProJex Go | Investment Platform (2026)
+**Complete Startup Ecosystem Platform**
+- **Features:** Project Management, Analytics Dashboard, Investment Tracking.
+- **Tech:** Laravel 10 | FilamentPHP | MySQL
+- **Status:** 🚀 **Market Ready**
+
+---
+
+## 🎯 Key Expertise
+
+| Area | Level |
+|------|-------|
+| **Laravel Full Stack** | 🟢 Expert |
+| **n8n Automation** | 🟢 Expert |
+| **AI SaaS Architecture** | 🟢 Expert |
+
+---
+
+**youssef.mohamad.dev@gmail.com** | **Cairo, Egypt 🇪🇬**
+
+*"Building production-grade solutions that scale."* 🚀
